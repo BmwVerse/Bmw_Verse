@@ -30,7 +30,7 @@ header{
 
 }
 body{
-    font-size:25px;
+    font-size: 30px;
 }
 .heading{
     text-align: center;
@@ -39,11 +39,7 @@ body{
     text-decoration: underline;
     
 }
-.Logo{
-    margin-left: 550px;
-    height: 400px;
-    -ms-flex-item-align: auto;
-}
+
 .line{
     height: 10px;
     background-color: black;
@@ -100,3 +96,4 @@ footer{
 
     
 }
+
